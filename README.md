@@ -1,7 +1,7 @@
 # MergeHarbor Homebrew tap
 
 ```sh
-brew install tastaslim/tap/mh
+brew install mergeharbor/tap/mh
 ```
 
 See https://mergeharbor.com/docs/cli/
